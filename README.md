@@ -4,6 +4,10 @@
 
 Godot 4.6.3で制作した、60秒の小さな金木犀キャッチゲームです。
 
+[ブラウザーで遊ぶ](https://tsubakinu-cpu.github.io/osmanthus-share-game/)
+
+WebGL 2.0に対応したブラウザーが必要です。
+
 ## 遊び方
 
 - 「秋をあつめる」で開始
